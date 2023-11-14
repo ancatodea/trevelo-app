@@ -1,0 +1,8 @@
+.navBarContainer {
+    display: flex;
+    list-style: none;
+}
+
+.navItem {
+    padding: 0 1.5rem;
+}
