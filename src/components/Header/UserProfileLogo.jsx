@@ -1,4 +1,4 @@
-import userLogo from '../assets/favicon.svg';
+import userLogo from '../../assets/favicon.svg';
 import styles from './UserProfileLogo.module.css';
 
 export default function UserProfileButton() {

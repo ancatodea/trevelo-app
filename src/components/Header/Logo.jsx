@@ -1,4 +1,4 @@
-import logo from "../assets/trevelogo.svg";
+import logo from "../../assets/trevelogo.svg";
 import styles from "./Logo.module.css";
 
 export default function Logo() {
