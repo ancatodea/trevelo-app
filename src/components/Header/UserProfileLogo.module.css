@@ -1,3 +1,6 @@
 .userLogo {
     max-width: 40px;
+    border-radius: 100%;
+    /* corner-radius: 2px; */
 }
+

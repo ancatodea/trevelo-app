@@ -3,8 +3,10 @@ import Post from "../components/Post/Post";
 
 
 export default function Homepage() {
-    return <>
-    <Header />
-    <Post />
-    </>
+    return (
+        <>
+            <Header />
+            <Post />
+        </>
+    );
 }

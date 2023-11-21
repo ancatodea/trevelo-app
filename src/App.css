@@ -9,3 +9,7 @@
   --trevelo-color-8: #161716;
   --trevelo-color-9: #10422a;
 }
+
+.App {
+  background-color: var(--trevelo-color-2);
+}

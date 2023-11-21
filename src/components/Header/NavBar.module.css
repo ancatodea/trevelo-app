@@ -3,6 +3,18 @@
     list-style: none;
 }
 
-.navItem {
+.navLink {
+    text-decoration: none;
     padding: 0 1.5rem;
+    color: #161716;
+    font-family: 'Helvetica', sans-serif;
+}
+
+.navLink:hover {
+    font-weight: bold;
+    color: #10422A;
+}
+
+.currentLink {
+    font-weight: bold;
 }
