@@ -15,8 +15,6 @@ export default function NavBar() {
                     <NavLink
                         className={styles.navLink}
                         to="/favourites"
-                        activeClassName={styles.currentLink}
-                        exact
                     >
                         Favorite
                     </NavLink>

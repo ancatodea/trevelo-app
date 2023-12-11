@@ -4,7 +4,7 @@
 }
 
 .navLink {
-    text-decoration: none;
+    text-decoration: inherit;
     padding: 0 1.5rem;
     color: #161716;
     font-family: 'Helvetica', sans-serif;

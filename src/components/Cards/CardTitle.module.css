@@ -1,4 +1,5 @@
 .cardTitle {
     font-size: 14px;
     color: green;
+    z-index: 200;
 }
